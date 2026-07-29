@@ -1,4 +1,4 @@
-# ongeki-chart-manager
+# ongeki-chart-manager （简称OCM）
 某八个键加摇杆音游谱面管理工具
 
 <img width="1400" height="850" alt="demo" src="https://github.com/user-attachments/assets/fa8a7bb9-2db5-4ec2-a6fe-e871fe3e2418" />
