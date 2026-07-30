@@ -1,16 +1,38 @@
-# ongeki-chart-manager （简称OCM）
-某八个键加摇杆音游谱面管理工具
+# 🎵 OCM - 音击谱面管理器 (Ongeki Chart Manager)
 
-<img width="1400" height="850" alt="demo" src="https://github.com/user-attachments/assets/fa8a7bb9-2db5-4ec2-a6fe-e871fe3e2418" />
+**某八个键加摇杆音游的谱面管理工具**
 
-包文件在https://drive.google.com/drive/folders/16GjAVx0H2HTWTH4mhTCHhflqJn6cRxkC?usp=sharing
+---
 
-目前已经实现的功能
+### 📸 项目演示
 
-- [x] 浏览本地谱面列表
-- [ ] 修改谱面基础信息
-- [x] (仅查看) 流派 / 版本分类查看和修改
-- [ ] 修改乐曲音频，在音频中增加延迟或裁剪
-- [ ] 检查数据中潜在的问题
-- [ ] 导入谱面
-- [ ] 软件内预览谱面
+![Demo Screenshot](https://github.com/user-attachments/assets/fa8a7bb9-2db5-4ec2-a6fe-e871fe3e2418)
+
+---
+
+### 📥 下载与安装
+
+你可以通过以下链接获取最新版本的程序包：
+
+- **Google Drive 下载**: [点击前往下载页面](https://drive.google.com/drive/folders/16GjAVx0H2HTWTH4mhTCHhflqJn6cRxkC?usp=sharing)
+
+---
+
+### ✅ 功能列表
+
+当前版本已实现及规划中的功能如下：
+
+#### 已实现功能
+
+- [x] **浏览本地谱面列表**：快速加载并查看本地已有的谱面文件。
+- [x] **分类查看与修改**：支持流派 / 版本分类的查看和基础修改（仅查看模式）。
+
+#### 规划中功能 (TODO)
+
+- [ ] **修改谱面基础信息**：编辑谱面的元数据。
+- [ ] **音频处理**：修改乐曲音频，支持在音频中增加延迟或进行裁剪。
+- [ ] **数据检查**：自动检查数据中潜在的问题或错误。
+- [ ] **谱面导入**：支持一键导入新的谱面文件。
+- [ ] **软件内预览**：直接在软件界面中预览谱面内容。
+
+---
